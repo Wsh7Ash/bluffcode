@@ -1,0 +1,16 @@
+--- Round 1 (starter: human) ---
+human bids at least 1 x A
+ai bids at least 1 x C [truthful-raise]
+human bids at least 2 x A
+ai challenges at least 2 x A (est 92% false) -> human code A-A-B, true=true, winner=human, score 1-0
+--- Round 2 (starter: ai) ---
+ai bids at least 1 x D [opening]
+human bids at least 1 x E
+ai challenges at least 1 x E (est 61% false) -> human code C-D-E, true=true, winner=human, score 2-0
+--- Round 3 (starter: ai) ---
+ai bids at least 1 x B [opening]
+human bids at least 1 x D
+ai bids at least 1 x E [truthful-raise]
+human bids at least 2 x B
+ai challenges at least 2 x B (est 92% false) -> human code B-B-D, true=true, winner=human, score 3-0
+MATCH OVER: winner=human final=3-0 seed=42

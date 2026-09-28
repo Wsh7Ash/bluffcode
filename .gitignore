@@ -1,0 +1,4 @@
+node_modules/
+npm-debug.log*
+results/*.tmp
+.DS_Store
